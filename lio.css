@@ -1,0 +1,1240 @@
+.about-me,
+.about-me * {
+  box-sizing: border-box;
+}
+.about-me {
+  background: #020617;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-83 {
+  padding: 16px 8px 16px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 369px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me2 {
+  text-align: left;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: relative;
+}
+.about-me-2-span {
+  color: #ffffff;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+.about-me-2-span2 {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.about {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.service {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.portfolio {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.resume {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.blog {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.cont-act {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+}
+.aboutme {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 89px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.hello{
+    color: #EAB308;
+    font-family: "Lexend Deca";
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6875rem; /* 168.75% */
+}
+.about2 {
+  flex-shrink: 0;
+  width: 510px;
+  height: 512px;
+  position: static;
+}
+.rectangle-1004 {
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #eab308;
+  border-width: 16px;
+  width: 475px;
+  height: 502px;
+  position: absolute;
+  left: 475px;
+  top: 106px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-1003 {
+  border-radius: 24px;
+  width: 475px;
+  height: 475px;
+  position: absolute;
+  left: 510px;
+  top: 96px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me3 {
+  text-align: left;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+  position: relative;
+}
+
+.about-me-3-span {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.about-me-3-span2 {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-havesuffered-alteration-in-some-form-by-injected-humour {
+  color: #6b7280;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some-form-by-injected-humour {
+  color: #6b7280;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-24 {
+  background: #eab308;
+  border-radius: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Arvo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.myservice {
+  background: #111827;
+  padding: 96px 165px 96px 165px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-service {
+  text-align: left;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+  position: relative;
+}
+.my-service-span {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.my-service-span2 {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-44 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: visible;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.digital-marketing {
+  color: #f3f4f6;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some {
+  color: #6b7280;
+  text-align: center;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 286px;
+}
+.frame-50 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame2 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 37.78px;
+  position: relative;
+  overflow: visible;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.web-devlopment {
+  color: #f3f4f6;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-49 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame3 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: visible;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.creative-graphic-design {
+  color: #f3f4f6;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.myportfolio {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-54 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-portfolio {
+  text-align: center;
+  background: #020617;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+  position: relative;
+}
+.my-portfolio-span {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.my-portfolio-span2 {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-havesuffered-alteration-in-some-form-by-injected-humour2 {
+  color: #9ca3af;
+  text-align: center;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-1024 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 540px;
+  height: 565px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-57 {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-55 {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-1025 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 256px;
+  height: 268px;
+  position: relative;
+  object-fit: cover;
+}
+.rectangle-1027 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 256px;
+  height: 268px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-56 {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-1026 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 256px;
+  height: 268px;
+  position: relative;
+  object-fit: cover;
+}
+.rectangle-1028 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 256px;
+  height: 268px;
+  position: relative;
+  object-fit: cover;
+}
+.experience {
+  background: #191d28;
+  padding: 85px 149px 85px 149px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.experience2 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-60 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-experiences {
+  text-align: left;
+  font-family: "Arvo-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+  position: relative;
+}
+.my-experiences-span {
+  color: #f3f4f6;
+  font-family: "Arvo-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.my-experiences-span2 {
+  color: #eab308;
+  font-family: "Arvo-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-havesuffered-alteration-in-some-form-by-injected-humour3 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 730px;
+}
+.frame-82 {
+  display: flex;
+  flex-direction: row;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-74 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-64 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.june-2002-2020 {
+  color: #d1d5db;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-61 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ux-ui-designer {
+  color: #eab308;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.figma {
+  color: #d1d5db;
+  text-align: left;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-62 {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumav-ailable-but-the-majority-have-suffered-alteration-in-some {
+  color: #6b7280;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 286px;
+}
+.frame-72 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-67 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-66 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-65 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.product-designer {
+  color: #eab308;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.adobe-photoshop {
+  color: #d1d5db;
+  text-align: left;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 700;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some2 {
+  color: #6b7280;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 272px;
+}
+.frame-73 {
+  background: #020617;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-71 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-70 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-68 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.graphic-designer {
+  color: #eab308;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 41px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-69 {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some3 {
+  color: #6b7280;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 286px;
+}
+.contact {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-75 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-me {
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+  position: relative;
+}
+.contact-me-span {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.contact-me-span2 {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some-form-by-injected-humour {
+  color: #9ca3af;
+  text-align: center;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 685px;
+}
+.frame-81 {
+  display: flex;
+  flex-direction: row;
+  gap: 223px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-76 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.address-23-s-80-road-benedict-ne-68316-united-states {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: relative;
+}
+.address-23-s-80-road-benedict-ne-68316-united-states-span {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 700;
+}
+.address-23-s-80-road-benedict-ne-68316-united-states-span2 {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+}
+.phone-01-123-456-789 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: relative;
+}
+.phone-01-123-456-789-span {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 700;
+}
+.phone-01-123-456-789-span2 {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+}
+.e-mail-abc-xyz-gmail-com {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: relative;
+}
+.e-mail-abc-xyz-gmail-com-span {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 700;
+}
+.e-mail-abc-xyz-gmail-com-span2 {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+}
+.website-www-abc-xyz-com {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: relative;
+}
+.website-www-abc-xyz-com-span {
+  color: #eab308;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 700;
+}
+.website-www-abc-xyz-com-span2 {
+  color: #f3f4f6;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+}
+.frame-80 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 350px;
+  height: 63px;
+  position: static;
+}
+.rectangle-1033 {
+  background: #1f2937;
+  width: 350px;
+  height: 63px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.name {
+  color: #f3f4f6;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: absolute;
+  left: 18px;
+  top: 11px;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 540px;
+  height: 166px;
+  position: static;
+}
+.rectangle-1034 {
+  background: #1f2937;
+  width: 540px;
+  height: 166px;
+  position: absolute;
+  left: 0px;
+  top: 95px;
+}
+.message {
+  color: #f3f4f6;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  font-weight: 400;
+  position: absolute;
+  left: 18px;
+  top: 105px;
+}
+.frame-25 {
+  background: #eab308;
+  border-radius: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: left;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-79 {
+  padding: 56px 0px 56px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-77 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-me4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "LexendDeca-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+}
+.there-are-many-variations-of-passages-of-lorem-ipsumavailable-but-the-majority-havesuffered-alteration-in-some-form {
+  color: #9ca3af;
+  text-align: center;
+  font-family: "LexendDeca-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  position: relative;
+  width: 685px;
+}
+.frame-78 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame7 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame9 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+
